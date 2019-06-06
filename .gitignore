@@ -2,4 +2,10 @@ dataminingenv/
 *.xlsx
 *.docx
 *.jpg
+*.tmp
+*.pdf
+Opinion-mining-Text-Analysis/
+OMwithWord2Vec.txt
+*.ini
+k.csv
 
